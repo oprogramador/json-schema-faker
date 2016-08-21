@@ -48,7 +48,7 @@
     "eslint": "^3.3.1",
     "fs-extra": "^0.30.0",
     "glob": "^7.0.5",
-    "istanbul": "^0.4.4",
+    "istanbul": "^0.4.5",
     "jasmine-node": "^2.0.0",
     "jayschema": "^0.3.1",
     "lodash.template": "^4.3.0",
